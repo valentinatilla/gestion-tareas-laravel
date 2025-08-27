@@ -16,8 +16,8 @@ Esta es una aplicación básica construida con Laravel 9 que proporciona una API
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
-    cd tu-repositorio
+    git clone [https://github.com/valentinatilla/gestion-tareas-laravel]
+    cd gestion-tareas-laravel
     ```
 
 2.  **Instalar dependencias:**
